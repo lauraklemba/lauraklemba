@@ -5,7 +5,7 @@
 
 ---
 
-### Tecnologias & Ferramentas
+### Tec & Ferramentas
 - Linguagens em aprendizado: `Java`, `C`, `JavaScript`
 - Banco de dados: `MySQL`
 - Ferramentas: `Git`, `GitHub`, `VS Code`
@@ -17,4 +17,4 @@
 - Construir projetos práticos durante a graduação
 - Atuar na área de tecnologia
 
-
+---
