@@ -6,7 +6,7 @@
 ---
 
 ### Tec & Ferramentas
-- Linguagens em aprendizado: `Java`, `C`, `JavaScript`
+- Linguagens em aprendizado: `Java`, `C`, `JavaScript`, etc.
 - Banco de dados: `MySQL`
 - Ferramentas: `Git`, `GitHub`, `VS Code`
 
