@@ -1,7 +1,7 @@
 ## 🌟 Oii! Me chamo Laura
 
 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UFPR**  
-💻 Em constante aprendizado na área de tecnologia e desenvolvimento  
+💻 Em aprendizado na área de tecnologia e desenvolvimento  
 
 ---
 
